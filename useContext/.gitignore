@@ -23,11 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-ComponentA.jsx
-componentA.module.css
-ComponentB.jsx
-componentB.module.css
-ComponentC.jsx
-componentC.module.css
-ComponentD.jsx
-componentD.module.css
+.components
