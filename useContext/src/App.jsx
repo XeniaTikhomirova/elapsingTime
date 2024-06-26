@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { StopWatch } from "./components/StopWatch";
+import { StopWatch } from "./StopWatch";
 
 
 function App() {
