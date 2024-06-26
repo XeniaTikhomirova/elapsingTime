@@ -10,8 +10,6 @@ export function StopWatch() {
 
   useEffect(() => {
     if (isRunning) {
-      startTimeRef.current = Date.now() - elapsedTime;
-
       intervalIdRef.current = setInterval(() => {
         setElapsedTime(Date.now() - startTimeRef.current);
       }, 10);
