@@ -23,11 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 
-.ComponentA
-.componentA.module.css
-.ComponentB
-.componentB.module.css
-.ComponentC
-.componentC.module.css
-.ComponentD
-.componentD.module.css
+ComponentA
+componentA.module.css
+ComponentB
+componentB.module.css
+ComponentC
+componentC.module.css
+ComponentD
+componentD.module.css
